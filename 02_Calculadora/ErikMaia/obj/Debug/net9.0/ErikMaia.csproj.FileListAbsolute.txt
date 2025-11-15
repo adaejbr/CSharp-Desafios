@@ -1,0 +1,14 @@
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\bin\Debug\net9.0\ErikMaia.exe
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\bin\Debug\net9.0\ErikMaia.deps.json
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\bin\Debug\net9.0\ErikMaia.runtimeconfig.json
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\bin\Debug\net9.0\ErikMaia.dll
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\bin\Debug\net9.0\ErikMaia.pdb
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\obj\Debug\net9.0\ErikMaia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\obj\Debug\net9.0\ErikMaia.AssemblyInfoInputs.cache
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\obj\Debug\net9.0\ErikMaia.AssemblyInfo.cs
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\obj\Debug\net9.0\ErikMaia.csproj.CoreCompileInputs.cache
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\obj\Debug\net9.0\ErikMaia.dll
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\obj\Debug\net9.0\refint\ErikMaia.dll
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\obj\Debug\net9.0\ErikMaia.pdb
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\obj\Debug\net9.0\ErikMaia.genruntimeconfig.cache
+C:\Users\Kire\Desktop\desafios\CSharp-Desafios-main\02_Calculadora\ErikMaia\obj\Debug\net9.0\ref\ErikMaia.dll
