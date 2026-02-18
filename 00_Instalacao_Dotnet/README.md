@@ -25,4 +25,4 @@ Após a instalação podemos verificar se o dotnet foi instalado com sucesso ver
 
 **Existem diversos outros comandos, mas os que utilizaremos durante os exercícios estão acima.**
 
-Para mais detalhes do CLI do Dotnet, acesse a documentação: https://docs.microsoft.com/pt-br/dotnet/core/tools/ 
+Para mais detalhes do CLI do Dotnet, acesse a documentação oficial: https://docs.microsoft.com/pt-br/dotnet/core/tools/ 
